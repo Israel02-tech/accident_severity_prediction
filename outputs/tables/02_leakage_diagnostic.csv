@@ -1,0 +1,3 @@
+Evaluation_Setup,Macro_F1_Mean,Fatal_Recall_Mean
+Naive Row Split + Raw Time (Leaky),0.3064,0.0
+Group-Stratified Split + Engineered Time (Leakage-Safe),0.3063,0.0

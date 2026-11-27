@@ -1,0 +1,4 @@
+Split,Total_Rows,Share_of_Total (%),Slight_Count,Slight (%),Serious_Count,Serious (%),Fatal_Count,Fatal (%)
+Train (70%),8620,69.99,7329,85.02,1172,13.6,119,1.38
+Validation (15%),1867,15.16,1552,83.13,291,15.59,24,1.29
+Test (15%),1829,14.85,1534,83.87,280,15.31,15,0.82

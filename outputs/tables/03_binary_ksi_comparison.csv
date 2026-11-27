@@ -1,0 +1,5 @@
+Model,Binary_Macro_F1,Severe_Fatal_Precision,Severe_Fatal_Recall,Severe_Fatal_F1,ROC_AUC,PR_AUC
+Random Forest,0.5603,0.2572,0.3397,0.2927,0.5697,0.2608
+XGBoost,0.5469,0.2382,0.4,0.2986,0.5671,0.2514
+MLP,0.5285,0.2199,0.1968,0.2077,0.5494,0.212
+Decision Tree,0.4277,0.1752,0.5746,0.2685,0.5746,0.2641

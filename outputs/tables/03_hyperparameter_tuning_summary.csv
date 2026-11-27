@@ -1,0 +1,5 @@
+Model,Train_Macro_F1,CV_Macro_F1,Train_Val_Gap,Best_Params
+Decision Tree,0.4933,0.3088,0.1846,"{""min_samples_split"": 20, ""min_samples_leaf"": 5, ""max_depth"": 14, ""criterion"": ""gini""}"
+Random Forest,0.6076,0.3682,0.2394,"{""n_estimators"": 150, ""min_samples_leaf"": 8, ""max_features"": ""sqrt"", ""max_depth"": 8}"
+XGBoost,0.6195,0.3584,0.2611,"{""subsample"": 0.7, ""n_estimators"": 150, ""min_child_weight"": 5, ""max_depth"": 7, ""learning_rate"": 0.02, ""colsample_bytree"": 0.7}"
+MLP,0.9739,0.3544,0.6195,"{""learning_rate_init"": 0.001, ""hidden_layer_sizes"": [64], ""alpha"": 0.0001, ""activation"": ""tanh""}"
